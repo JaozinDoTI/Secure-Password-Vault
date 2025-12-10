@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Editor files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Vault files (nunca subir cofre real)
+*.bin
+
+# Environment variables
+.env
